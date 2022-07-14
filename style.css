@@ -70,7 +70,7 @@ h1{
 }
 
 .submitter_picture{
-    background: url(/images/avatar-michelle.jpg);
+    background: url(images/avatar-michelle.jpg);
     width: 40px;
     height: 40px;
     border-radius: 999px;
@@ -103,7 +103,7 @@ h2{
     position: relative;
     top:4px;
     margin-left: auto;
-    background-image: url(/images/icon-share.svg);
+    background-image: url(images/icon-share.svg);
     width: 32px;
     height: 32px;
     background-position: center;
@@ -136,7 +136,7 @@ h2{
 }
 
 .logo_facebook{
-    background-image: url(/images/icon-facebook.svg);
+    background-image: url(images/icon-facebook.svg);
     width: 20px;
     height: 20px;
     background-size: cover;
@@ -144,7 +144,7 @@ h2{
 }
 
 .logo_twitter{
-    background-image: url(/images/icon-twitter.svg);
+    background-image: url(images/icon-twitter.svg);
     width: 20px;
     height: 16.25px;
     background-size: cover;
@@ -152,7 +152,7 @@ h2{
 }
 
 .logo_pinterest{
-    background-image: url(/images/icon-pinterest.svg);
+    background-image: url(images/icon-pinterest.svg);
     width: 20px;
     height: 20px;
     background-size: cover;
