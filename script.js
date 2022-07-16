@@ -17,7 +17,3 @@ window.addEventListener('click', (e) => {
             square.classList.remove("show")
     }
 })
-
-test.addEventListener('mouseover', (ev) => {
-    console.log(ev)
-})
